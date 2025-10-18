@@ -39,4 +39,5 @@ or look at the project [here](https://github.com/Kelunie/Project_Mobile_Applicat
 we work in in the schema for the proyect as well.
 as well look at notes document in the week 5 for more information and the homework as well [here](https://github.com/Kelunie/Week_5)
 also you can check de information from this week [here](https://github.com/Kelunie/Desarrollo_de_Aplicaciones_para_Dispositivos_M-viles/tree/main/Semana_5)
+
 ---
