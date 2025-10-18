@@ -35,5 +35,8 @@ Also the proffesor told us to think about our proyect for this quarer
 
 I came up with a idea, a proyect called "ChessKel" i will start develop a chess game for android
 look at the file called Semana_4 [here](https://github.com/Kelunie/Desarrollo_de_Aplicaciones_para_Dispositivos_M-viles/tree/main/Semana_4)
-
+or look at the project [here](https://github.com/Kelunie/Project_Mobile_Application_Development)
+we work in in the schema for the proyect as well.
+as well look at notes document in the week 5 for more information and the homework as well [here](https://github.com/Kelunie/Week_5)
+also you can check de information from this week [here](https://github.com/Kelunie/Desarrollo_de_Aplicaciones_para_Dispositivos_M-viles/tree/main/Semana_5)
 ---
