@@ -41,3 +41,17 @@ as well look at notes document in the week 5 for more information and the homewo
 also you can check de information from this week [here](https://github.com/Kelunie/Desarrollo_de_Aplicaciones_para_Dispositivos_M-viles/tree/main/Semana_5)
 
 ---
+
+# Week 6 & 7 📅
+
+We learn how to use the xml with the desing and make it work
+[here](https://github.com/Kelunie/Week6)
+
+
+---
+
+# Week 8 📅
+
+We did a practice for the future test the next week
+
+---
