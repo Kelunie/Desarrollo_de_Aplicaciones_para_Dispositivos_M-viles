@@ -52,6 +52,7 @@ We learn how to use the xml with the desing and make it work
 
 # Week 8 📅
 
-We did a practice for the future test the next week
+We did a practice for the future test the next week [here](https://github.com/Kelunie/Desarrollo_de_Aplicaciones_para_Dispositivos_M-viles/tree/main/Semana_8)
+as well here is the practice as well with the whole class, my contributation was incident [Practice](https://github.com/utn-app-movil/practicalTest)
 
 ---
