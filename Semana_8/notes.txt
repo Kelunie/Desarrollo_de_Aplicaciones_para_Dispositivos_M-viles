@@ -1,0 +1,8 @@
+in the campus we have a Excel and then go to the link use the repositorie
+
+exameple for controller, datamanager memorydatamanager, entity, Útil
+
+(no edit or chance Person, Útil)
+
+
+Gestión de Reportes de Incidentes	CRUD de reportes de problemas (luz, agua, seguridad).	IncidentActivity	Caleb Rodriguez Cordero
